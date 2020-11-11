@@ -1,19 +1,15 @@
 function sum(){
-    let soma = 1 + 1;
-    console.log(soma);
+    //soma
 }
 
 function sub(){
-    let su = 1 - 1;
-    console.log(su);
+   //sub
 }
 
 function mult(){
-    let mu = 1 * 1;
-    console.log(mu);
+    //mult
 }
 
 function div(){
-    let di = 1 / 1;
-    console.log(di);
+    //div
 }
