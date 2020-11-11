@@ -11,5 +11,8 @@ function mult(){
 }
 
 function div(){
-    //div
+    let x = 10;
+    let y = 5;
+    let a = (x/y);
+    console.log(a);
 }
