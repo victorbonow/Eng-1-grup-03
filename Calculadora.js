@@ -3,7 +3,8 @@ function sum(){
 }
 
 function sub(){
-   //sub
+  let subtraction = 1 - 1;
+  console.log(subtraction);
 }
 
 function mult(){
