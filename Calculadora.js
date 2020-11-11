@@ -20,8 +20,6 @@ function mult(){
 
 function div(){
 
- 
-
     let x = 10;
     let y = 5;
     let a = (x/y);
