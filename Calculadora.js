@@ -1,5 +1,8 @@
 function sum(){
-    //TODO: Implementar soma
+    let a = 10;
+    let b = 6;
+    let soma = (a+b);
+    console.log(`A Soma de ${a} + ${b} = ${soma}`);
 }
 
 function sub(){
@@ -11,5 +14,5 @@ function mult(){
 }
 
 function div(){
-    //  TODO: Implementar divisão
+    //TODO: Implementar divisão
 } 
