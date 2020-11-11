@@ -20,8 +20,7 @@ function mult(){
 
 function div(){
 
-    //TODO: Implementar divisão
-} 
+ 
 
     let x = 10;
     let y = 5;
