@@ -14,8 +14,8 @@
 
 ### :construction_worker: Participantes:
 
-Giovane \n
-Dionatã \n
+Giovane | 
+Dionatã | 
 Victor
 
 
