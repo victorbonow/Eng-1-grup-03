@@ -1,0 +1,74 @@
+    1  git flow init
+    2  cd senac
+    3  cd eng1
+    4  git clone https://github.com/victorbonow/Eng-1-grup-03.git
+    5  md teste
+    6  cd teste
+    7  git clone https://github.com/victorbonow/Eng-1-grup-03.git
+    8  git flow init
+    9  git --version
+   10  git branch
+   11  git flow init
+   12  git --help
+   13  git flow
+   14  git flow init
+   15  cd \\nnpm i -g gitmoji-cli
+   16  npm i -g gitmoji-cli
+   17  apt-get install git-flow
+   // Inicio do problema - Tive alguns problemas com o gitflow e a galera do grupo do senac me ajudou --------
+   18  sudo apt-get install git-flow
+   19  sudo rm -rf /var/lib/apt/lists/lock
+   20  sudo apt-get install git-flow
+   21  sudo rm -rf /var/lib/apt/lists/lock
+   22  sudo apt-get update
+   23  sudo dpkg --configure -a
+   24  sudo rm -rf /var/lib/apt/lists/lock
+   25  sudo dpkg --configure -a
+   26  sudo apt-get -f install
+   27  ps aux | grep -i apt
+   28  sudo kill -9 id_processo
+   29  sudo kill -9 22608
+   30  sudo rm /var/lib/apt/lists/lock
+   31  sudo rm /var/lib/dpkg/lock
+   32  sudo rm /var/lib/dpkg/lock-frontend
+   33  sudo rm /var/cache/apt/archives/lock
+   34  sudo dpkg --configure -a
+   35  ps aux | grep -i apt
+   36  sudo rm -rf /var/lib/apt/lists/lock
+   37  sudo apt-get update
+   38  sudo dpkg --configure -a
+   39  sudo apt-get update
+   40  sudo apt-get -f install
+   41  sudo dpkg --configure -a
+   42  sudo apt-get -f install
+   43  apt-get install git-flow
+   44  sudo apt-get -f install
+   45  sudo apt-get install git-flow
+   // Final do problema - Problema resolvido ---------------------------------------------
+   46  git flow init
+   47  git flow feature start sumini
+   48  cd senac
+   49  cd eng1
+   50  ls
+   51  cd Eng-1-grup-03
+   52  code .
+   53  git pull
+   54* uname -m
+   55  gitmoji -i
+   56  git checkout -D feature/sumini
+   57  git checkout master
+   58  git checkout -D feature/sumini
+   59  git checkout -d feature/sumini
+   60  git flow feature start chore-add-subtraction-function
+   61  gitmoji -i
+   62  git commit
+   63  git add .
+   64  git commit
+   65  fg
+   66  git push origin feature/chore-add-subtraction-function
+   67  git flow feature start chore-add-multiplication-function
+   68  git checkout feature/chore-add-multiplication-function
+   69  git add .
+   70  git commit
+   71  git push origin feature/chore-add-multiplication-function
+   72  git flow feature start chore-add-history-victor

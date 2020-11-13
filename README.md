@@ -1,3 +1,4 @@
+
 <h1 align="center">:white_check_mark:Aplicando conhecimentos em Git</h1>
 
 ## :pushpin: Praticando Git para engenharia de software
@@ -8,10 +9,17 @@
 </h4>
 
 ### :construction_worker: Participantes:
+=======
+## Trabalho de engenharia de software
+
+### Práticas de GIT
+
+Participantes:
 
 Giovane
 Dionatã
 Victor
+
 
 Tabela de conteúdos
 =================
@@ -27,3 +35,5 @@ Tabela de conteúdos
    * [Branches](/branches)
    * [Tags](/tags)
 <!--te-->
+=======
+
