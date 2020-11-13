@@ -18,15 +18,16 @@ Giovane |
 Dionatã | 
 Victor
 
+=======
 
 :bookmark: Tabela de conteúdos
 
-=======
+
 <!--ts-->
    * [Sobre](/README.md)
    * [Instruções](/INSTRUCTIONS.md)
    * [Código](/Calculadora.js)
-   * [Histórico dos participantes]
+   * Histórico dos participantes
       * [Giovane](/LOG_GSilva9)
       * [Dionatã](/LOG_DionataBergmann)
       * [Victor](/LOG_victorbonow)
