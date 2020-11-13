@@ -31,7 +31,7 @@ Victor
       * [Giovane](/LOG_GSilva9)
       * [Dionatã](/LOG_DionataBergmann)
       * [Victor](/LOG_victorbonow)
-   * [Commits]()
+   * [Commits](#commits/master)
    * [Branches](/branches)
    * [Tags](/tags)
 <!--te-->
