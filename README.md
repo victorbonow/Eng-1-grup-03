@@ -31,9 +31,9 @@ Victor
       * [Giovane](/LOG_GSilva9)
       * [Dionatã](/LOG_DionataBergmann)
       * [Victor](/LOG_victorbonow)
-   * [Commits](/commits)
-   * [Branches](/branches)
-   * [Tags](/tags)
+   * <a href="https://github.com/victorbonow/Eng-1-grup-03/commits/master">Commits</a>
+   * <a href="https://github.com/victorbonow/Eng-1-grup-03/branches">Branches</a>
+   * <a href="https://github.com/victorbonow/Eng-1-grup-03/tags">Tags</a>
 <!--te-->
 =======
 
