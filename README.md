@@ -13,9 +13,6 @@
 
 
 ### :construction_worker: Participantes:
-=======
-
-Participantes:
 
 Giovane \n
 Dionatã \n
@@ -23,7 +20,8 @@ Victor
 
 
 :bookmark: Tabela de conteúdos
-=================
+
+=======
 <!--ts-->
    * [Sobre](/README.md)
    * [Instruções](/INSTRUCTIONS.md)
@@ -37,3 +35,4 @@ Victor
    * [Tags](/tags)
 <!--te-->
 =======
+
