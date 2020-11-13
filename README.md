@@ -3,34 +3,30 @@
 
 <h2 align="center">:pushpin: Praticando Git para engenharia de software</h2>
 
-
 <p align="center">Este é um trabalho de Engenharia de Software para aprimorar os conhecimentos em Git.</p>
 
 <h4 align="center"> 
-	🚀 Projeto concluído  🚀
+	:green_heart: Projeto concluído  🚀
 </h4>
+
+## Trabalho de engenharia de software - Práticas de GIT
 
 
 ### :construction_worker: Participantes:
-=======
-## Trabalho de engenharia de software
 
-### Práticas de GIT
-
-Participantes:
-
-Giovane
-Dionatã
+Giovane \n
+Dionatã \n
 Victor
 
 
-Tabela de conteúdos
-=================
+:bookmark: Tabela de conteúdos
+
+=======
 <!--ts-->
    * [Sobre](/README.md)
    * [Instruções](/INSTRUCTIONS.md)
    * [Código](/Calculadora.js)
-   * [Histórico dos participantes]()
+   * [Histórico dos participantes]
       * [Giovane](/LOG_GSilva9)
       * [Dionatã](/LOG_DionataBergmann)
       * [Victor](/LOG_victorbonow)
