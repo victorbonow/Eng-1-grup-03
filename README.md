@@ -3,11 +3,13 @@
 
 <h2 align="center">:pushpin: Praticando Git para engenharia de software</h2>
 
+
 <p align="center">Este é um trabalho de Engenharia de Software para aprimorar os conhecimentos em Git.</p>
 
 <h4 align="center"> 
 	🚀 Projeto concluído  🚀
 </h4>
+
 
 ### :construction_worker: Participantes:
 =======
